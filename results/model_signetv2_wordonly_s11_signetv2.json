@@ -1,0 +1,362 @@
+{
+  "total": 601,
+  "errors": 0,
+  "unseen_labels": 0,
+  "word": {
+    "correct_top1": 260,
+    "correct_top5": 481,
+    "top1_accuracy": 0.43261231281198004,
+    "top5_accuracy": 0.800332778702163
+  },
+  "word_per_class": {
+    "অবাক": {
+      "correct": 2,
+      "total": 10,
+      "accuracy": 0.2
+    },
+    "অর্থ": {
+      "correct": 3,
+      "total": 11,
+      "accuracy": 0.2727272727272727
+    },
+    "অসুস্থ": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "আমরা": {
+      "correct": 0,
+      "total": 8,
+      "accuracy": 0.0
+    },
+    "আমি": {
+      "correct": 0,
+      "total": 10,
+      "accuracy": 0.0
+    },
+    "ইতিহাস": {
+      "correct": 0,
+      "total": 10,
+      "accuracy": 0.0
+    },
+    "উত্তর": {
+      "correct": 1,
+      "total": 10,
+      "accuracy": 0.1
+    },
+    "উদাহরণ": {
+      "correct": 7,
+      "total": 11,
+      "accuracy": 0.6363636363636364
+    },
+    "কবে": {
+      "correct": 0,
+      "total": 11,
+      "accuracy": 0.0
+    },
+    "কম্পিউটার": {
+      "correct": 8,
+      "total": 10,
+      "accuracy": 0.8
+    },
+    "কাজ": {
+      "correct": 4,
+      "total": 11,
+      "accuracy": 0.36363636363636365
+    },
+    "কাল": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0.0
+    },
+    "কালকে": {
+      "correct": 0,
+      "total": 11,
+      "accuracy": 0.0
+    },
+    "কি": {
+      "correct": 0,
+      "total": 11,
+      "accuracy": 0.0
+    },
+    "কী": {
+      "correct": 0,
+      "total": 0,
+      "accuracy": 0.0
+    },
+    "কেন": {
+      "correct": 7,
+      "total": 11,
+      "accuracy": 0.6363636363636364
+    },
+    "কেমন": {
+      "correct": 11,
+      "total": 11,
+      "accuracy": 1.0
+    },
+    "কোথায়": {
+      "correct": 8,
+      "total": 11,
+      "accuracy": 0.7272727272727273
+    },
+    "খাওয়া": {
+      "correct": 0,
+      "total": 11,
+      "accuracy": 0.0
+    },
+    "খারাপ": {
+      "correct": 2,
+      "total": 10,
+      "accuracy": 0.2
+    },
+    "খুশি": {
+      "correct": 8,
+      "total": 10,
+      "accuracy": 0.8
+    },
+    "গণিত": {
+      "correct": 0,
+      "total": 10,
+      "accuracy": 0.0
+    },
+    "গরম": {
+      "correct": 6,
+      "total": 8,
+      "accuracy": 0.75
+    },
+    "চিন্তা": {
+      "correct": 4,
+      "total": 11,
+      "accuracy": 0.36363636363636365
+    },
+    "ঠান্ডা": {
+      "correct": 2,
+      "total": 8,
+      "accuracy": 0.25
+    },
+    "তুমি": {
+      "correct": 0,
+      "total": 8,
+      "accuracy": 0.0
+    },
+    "থামা": {
+      "correct": 7,
+      "total": 10,
+      "accuracy": 0.7
+    },
+    "দুঃখ": {
+      "correct": 5,
+      "total": 10,
+      "accuracy": 0.5
+    },
+    "দেখা": {
+      "correct": 4,
+      "total": 11,
+      "accuracy": 0.36363636363636365
+    },
+    "ধন্যবাদ": {
+      "correct": 3,
+      "total": 8,
+      "accuracy": 0.375
+    },
+    "নাম": {
+      "correct": 13,
+      "total": 13,
+      "accuracy": 1.0
+    },
+    "পছন্দ": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "পড়া": {
+      "correct": 1,
+      "total": 8,
+      "accuracy": 0.125
+    },
+    "পরিবেশ": {
+      "correct": 2,
+      "total": 10,
+      "accuracy": 0.2
+    },
+    "পৃথিবী": {
+      "correct": 4,
+      "total": 10,
+      "accuracy": 0.4
+    },
+    "প্রশ্ন": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "বই": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "বন্ধু": {
+      "correct": 3,
+      "total": 10,
+      "accuracy": 0.3
+    },
+    "বলা": {
+      "correct": 0,
+      "total": 11,
+      "accuracy": 0.0
+    },
+    "বাংলাদেশ": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "বিজ্ঞান": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "বিদায়": {
+      "correct": 0,
+      "total": 10,
+      "accuracy": 0.0
+    },
+    "বিশ্ববিদ্যালয়": {
+      "correct": 6,
+      "total": 8,
+      "accuracy": 0.75
+    },
+    "ব্যাখ্যা": {
+      "correct": 0,
+      "total": 11,
+      "accuracy": 0.0
+    },
+    "ভালো": {
+      "correct": 2,
+      "total": 10,
+      "accuracy": 0.2
+    },
+    "ভাষা": {
+      "correct": 4,
+      "total": 10,
+      "accuracy": 0.4
+    },
+    "ভুল": {
+      "correct": 8,
+      "total": 11,
+      "accuracy": 0.7272727272727273
+    },
+    "ভূগোল": {
+      "correct": 0,
+      "total": 8,
+      "accuracy": 0.0
+    },
+    "মহাবিশ্ব": {
+      "correct": 0,
+      "total": 10,
+      "accuracy": 0.0
+    },
+    "মোবাইল": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "রাগ": {
+      "correct": 6,
+      "total": 10,
+      "accuracy": 0.6
+    },
+    "লেখা": {
+      "correct": 0,
+      "total": 8,
+      "accuracy": 0.0
+    },
+    "শরীর": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "শিক্ষক": {
+      "correct": 9,
+      "total": 9,
+      "accuracy": 1.0
+    },
+    "শোনা": {
+      "correct": 5,
+      "total": 11,
+      "accuracy": 0.45454545454545453
+    },
+    "সকাল": {
+      "correct": 8,
+      "total": 11,
+      "accuracy": 0.7272727272727273
+    },
+    "সঠিক": {
+      "correct": 9,
+      "total": 11,
+      "accuracy": 0.8181818181818182
+    },
+    "সময়": {
+      "correct": 3,
+      "total": 10,
+      "accuracy": 0.3
+    },
+    "সাহায্য": {
+      "correct": 0,
+      "total": 11,
+      "accuracy": 0.0
+    },
+    "সুন্দর": {
+      "correct": 1,
+      "total": 10,
+      "accuracy": 0.1
+    },
+    "হ্যাঁ": {
+      "correct": 6,
+      "total": 10,
+      "accuracy": 0.6
+    },
+    "হ্যালো": {
+      "correct": 0,
+      "total": 10,
+      "accuracy": 0.0
+    }
+  },
+  "expression": {
+    "total": 601,
+    "correct_top1": 131,
+    "top1_accuracy": 0.21797004991680533,
+    "per_class": {
+      "negation": {
+        "correct": 0,
+        "total": 102,
+        "accuracy": 0.0
+      },
+      "question": {
+        "correct": 83,
+        "total": 119,
+        "accuracy": 0.6974789915966386
+      },
+      "neutral": {
+        "correct": 48,
+        "total": 380,
+        "accuracy": 0.12631578947368421
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        97,
+        5
+      ],
+      [
+        0,
+        83,
+        36
+      ],
+      [
+        0,
+        332,
+        48
+      ]
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+DATA ANALYSIS REPORT
+Data dir: C:\Users\T2430397\Downloads\BdSL-Thesis\code\BdSL-SignNet\processed\multimodal_6signers_clean
+Label mapping: C:\Users\T2430397\Downloads\BdSL-Thesis\code\BdSL-SignNet\processed\multimodal_6signers_clean\label_mapping_clean.json
+
+1. OVERALL STATISTICS
+   Total files: 4170
+   Total word classes: 62
+   Total emotion classes: 5
+   Files per split: train+val=3569, test=601
+   Test signer: S11
+   Train+val signers: S02, S03, S06, S07, S10, S12
+
+2. PER-SIGNER STATISTICS
+Signer | Files | Word classes covered | Neutral | Happy | Sad | Negation | Question
+S02 | 594 | 60 | 140 | 119 | 118 | 100 | 117
+S03 | 544 | 59 | 109 | 111 | 110 | 88 | 126
+S06 | 634 | 60 | 125 | 128 | 127 | 126 | 128
+S07 | 598 | 60 | 120 | 119 | 120 | 119 | 120
+S10 | 599 | 60 | 141 | 119 | 119 | 102 | 118
+S11 | 601 | 60 | 141 | 119 | 120 | 102 | 119
+S12 | 600 | 60 | 142 | 119 | 120 | 101 | 118
+
+3. PER-EMOTION STATISTICS
+   happy: 834 files (20.00%)
+   negation: 738 files (17.70%)
+   neutral: 918 files (22.01%)
+   sad: 834 files (20.00%)
+   question: 846 files (20.29%)
+
+Per-signer per-emotion breakdown:
+   S02: neutral:140, happy:119, sad:118, negation:100, question:117
+   S03: neutral:109, happy:111, sad:110, negation:88, question:126
+   S06: neutral:125, happy:128, sad:127, negation:126, question:128
+   S07: neutral:120, happy:119, sad:120, negation:119, question:120
+   S10: neutral:141, happy:119, sad:119, negation:102, question:118
+   S11: neutral:141, happy:119, sad:120, negation:102, question:119
+   S12: neutral:142, happy:119, sad:120, negation:101, question:118
+
+4. PER-WORD-CLASS STATISTICS
+   Unique word classes: 62
+   Files per word class (sample):
+      নাম: 86
+      অর্থ: 80
+      কেন: 79
+      কেমন: 79
+      অবাক: 75
+      উদাহরণ: 75
+      সকাল: 75
+      সাহায্য: 75
+      খাওয়া: 74
+      চিন্তা: 74
+      ব্যাখ্যা: 74
+      শোনা: 74
+      কবে: 73
+      কাজ: 73
+      থামা: 73
+      দেখা: 73
+      বলা: 73
+      ভুল: 73
+      সঠিক: 73
+      আমি: 71
+   Min files/class: 22
+   Max files/class: 86
+   Mean files/class: 67.26
+   Median files/class: 69.0
+   Classes with fewest samples (22 samples): কাল
+
+5. SEQUENCE STATISTICS
+   Average sequence length: 59.96
+   Min sequence length: 30
+   Max sequence length: 60
+   Distribution across signers:
+      S02: count=594, mean=60.00, min=60, max=60
+      S03: count=544, mean=59.72, min=30, max=60
+      S06: count=634, mean=60.00, min=60, max=60
+      S07: count=598, mean=60.00, min=60, max=60
+      S10: count=599, mean=60.00, min=60, max=60
+      S11: count=601, mean=60.00, min=60, max=60
+      S12: count=600, mean=60.00, min=60, max=60
