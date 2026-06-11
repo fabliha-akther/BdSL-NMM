@@ -111,9 +111,3 @@ SignNetV2 uses four stream-specific Transformer
 encoders (body pose, left hand, right hand, face), 
 cross-stream attention fusion, hierarchical temporal 
 encoding, and a multi-task classification head.
-
-## Citation
-BRAC University Thesis T2430397
-Fabliha Akther Fairuz, Santonu Roy, Sajid Mahmud,
-Sumiya Tasnim, Inkiad Bin Ershad Rafey
-Supervisor: Dr. Md. Ashraful Alam (2026)
