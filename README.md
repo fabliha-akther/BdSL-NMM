@@ -11,7 +11,7 @@ leave-one-signer-out cross-validation.
 
 The BdSL-NMM dataset (1.2 GB) is hosted separately.
 
-**Download:** https://drive.google.com/file/d/17p5DIoDWckzm35AhUdfPn-WI_5VowT43/view?usp=sharing
+**Download:** N/A
 
 After downloading, extract and place at:
 dataset/multimodal_6signers_clean/
